@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-09-29T11:36:54.302942+00:00",
+  "canonical_tickets": 11875,
+  "duplicate_pairs_reconciled": 653,
+  "auto_closed_tickets": 1107,
+  "open_or_pending_tickets": 609,
+  "missing_resolution_times": 609,
+  "missing_agent_assignments": 0,
+  "missing_customer_ids": 0,
+  "order_linkage": {
+    "direct_match": 7852,
+    "unique_fallback": 3460,
+    "ambiguous_orders": 462,
+    "unmatched_orders": 101,
+    "order_date_anomalies": 232
+  },
+  "transfer_audit": {
+    "helpdesk_transfers_count": 1040,
+    "helpdesk_transfer_cost": 264740.0,
+    "legacy_transfer_rows_flagged": 268
+  },
+  "reconciliation": {
+    "sum_weekly_tickets": 11875,
+    "sum_issue_tickets": 11875,
+    "sum_channel_issue_tickets": 11875,
+    "sum_product_issue_tickets": 11875,
+    "sum_team_tickets": 11875,
+    "issue_shares_sum": 1.0,
+    "population_match": true,
+    "all_reconciled": true
+  }
+}

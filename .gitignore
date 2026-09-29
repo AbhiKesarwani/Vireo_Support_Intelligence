@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Test caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment secrets — NEVER commit .env
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary / scratch files
+tmp/
+temporary/
+scratch/
+
+# Build artefacts
+*.egg-info/
+dist/
+build/

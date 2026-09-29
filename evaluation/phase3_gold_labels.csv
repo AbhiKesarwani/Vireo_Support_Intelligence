@@ -1,0 +1,51 @@
+ticket_id,gold_issue_code,gold_sub_issue,gold_repeat_relevant,review_notes
+TK-240469,DELIVERY,marked_delivered_not_received,False,Courier marked order as delivered but customer received nothing.
+TK-240594,RETURNS,reverse_pickup_pending,False,"Customer packed return box a week ago, pickup still pending."
+TK-240704,RETURNS,reverse_pickup_missed,True,Nobody came for pickup after customer rescheduled twice.
+TK-241306,RETURNS,refund_status,True,"Customer awaiting refund after return, mentions emailed twice."
+TK-241450,APP,app_crash,True,Nexa Fit app crashes when opening device settings; agent notes confirm prior contact.
+TK-241896,DELIVERY,delayed_delivery,True,"Fit band delivery delayed, package not received; agent notes state cx contacted earlier."
+TK-241989,WARRANTY,service_center_status,True,Customer sent Strata 3 headphones in 8 days ago and follows up on warranty status.
+TK-242590,BILLING,invoice_request,False,Customer asks for GSTIN bill on firm name (also includes boilerplate replacement phrase).
+TK-242633,OTHER,pre_sales_compatibility,False,Pre-sales query asking if earbuds will work with 2019 Samsung phone.
+TK-243268,DELIVERY,delayed_delivery,False,Orbit speaker ordered 2 weeks ago has not arrived.
+TK-243363,PRODUCT,bluetooth_pairing,True,"Orbit speaker not pairing with phone, customer explicitly mentions raised 2 weeks ago."
+TK-243396,PRODUCT,battery_drain,False,Strata 2 headphone battery life dropped to almost nothing.
+TK-243403,BILLING,payment_failed_order_not_created,False,Payment completed on gateway but no order created in account.
+TK-243641,OTHER,product_compatibility,False,Product compatibility query asking if Pulse 2 works with TV.
+TK-243746,DELIVERY,delayed_delivery,False,Customer paid on 02/08 and shipment has not arrived.
+TK-244208,BILLING,coupon_code_error,False,Discount coupon code failing to apply during checkout.
+TK-244806,BILLING,discount_not_applied,False,Promotional discount not applied at checkout on Nexa 2 watch.
+TK-245357,PRODUCT,bluetooth_dropouts,True,Orbit Mini audio disconnects every few minutes; agent notes confirm repeat contact.
+TK-245395,DELIVERY,delayed_delivery,True,Customer states same complaint order not delivered; agent notes confirm repeat contact.
+TK-246040,RETURNS,refund_status,True,"Waiting for refund for returned Pulse 2, customer emailed twice."
+TK-246465,PRODUCT,audio_distortion,True,"Distorted audio at high volume on Pulse 2, fourth time writing."
+TK-247017,PRODUCT,power_button_failure,False,Power button does not respond after holding 30 seconds.
+TK-247836,PRODUCT,single_side_dead,False,Strata 2 headphones one side has failed and is dead.
+TK-248233,APP,firmware_update_hang,False,Firmware update progress bar has not moved since morning.
+TK-248572,OTHER,account_login_otp,False,"Customer cannot log into account, OTP not received."
+TK-248721,RETURNS,refund_status,True,"Customer still waiting for refund, emailed twice."
+TK-249010,DELIVERY,delivery_address_change,False,Customer entered wrong pincode and needs delivery address corrected.
+TK-249148,RETURNS,reverse_pickup_missed,True,"Nobody came for pickup, customer rescheduled twice."
+TK-250128,BILLING,invoice_request,False,Customer request for invoice with GST number.
+TK-250205,BILLING,invoice_request,False,Request for GST invoice for Pulse 2 order.
+TK-250492,PRODUCT,single_side_no_audio,False,Pulse 1 left earbud has no audio output at all.
+TK-250548,PRODUCT,bluetooth_pairing,False,Strata 3 headphones cannot pair with laptop.
+TK-250741,BILLING,payment_failed_order_not_created,False,Payment deducted from account but order was not generated.
+TK-251128,RETURNS,reverse_pickup_missed,True,"Nexa 2 return pickup has not happened, customer rescheduled twice."
+TK-251343,PRODUCT,audio_distortion,True,"Hissing noise in AirLite earbuds, customer states this was supposedly sorted last time."
+TK-251734,RETURNS,refund_status,False,Return was accepted but refund amount not reflected in account.
+TK-251835,PRODUCT,bluetooth_pairing,False,Pulse 1 earbuds not pairing with phone.
+TK-251976,PRODUCT,battery_drain,False,Strata 3 headphone battery drains from full to empty during single commute.
+TK-251994,PRODUCT,bluetooth_pairing,False,Pulse 2 earbuds not pairing with smartphone.
+TK-252194,DELIVERY,damaged_in_transit,False,Package box crushed and Nexa 2 watch screen cracked in transit.
+TK-252349,DELIVERY,delayed_delivery,False,Order not delivered and tracking information stuck.
+TK-252647,DELIVERY,delayed_delivery,True,"Customer says same problem again, order not received after courier follow-up."
+TK-252689,BILLING,invoice_request,False,Request for GST invoice for Pulse 2 order.
+TK-253062,APP,app_crash,False,Orbit companion app not opening after latest update.
+TK-253533,BILLING,payment_failed_order_not_created,False,Bank deducted Rs 4999 but site shows no order.
+TK-253656,DELIVERY,delayed_delivery,True,Customer writes yet again haven't received order.
+TK-253893,DELIVERY,delayed_delivery,False,Pulse 2 order stuck on shipped status since May 09.
+TK-254182,DELIVERY,delivery_address_change,False,"Typo in flat number, customer requests address correction."
+TK-254240,DELIVERY,delayed_delivery,False,Pulse 2 earbuds ordered 10 days ago not yet delivered.
+TK-254841,DELIVERY,order_cancellation,False,Order cancellation requested before dispatch (cancel button greyed out).

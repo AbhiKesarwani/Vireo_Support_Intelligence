@@ -1,0 +1,94 @@
+{
+  "run_at": "2026-09-29T01:18:08.942713",
+  "phase": "2",
+  "steps": {
+    "load": {
+      "tickets": 12528,
+      "agents": 44,
+      "orders": 15000,
+      "customers": 9500,
+      "products": 14
+    },
+    "clean": {
+      "raw_rows": 12528,
+      "duplicate_pairs": 653,
+      "canonical_rows": 11875,
+      "discarded_rows": 653,
+      "timestamp_corrections_applied": 2937,
+      "csat_zeros_corrected": 2083,
+      "csat_valid_responses": 5269,
+      "csat_response_rate_pct": 44.37,
+      "csat_mean_corrected": 3.3152,
+      "auto_closed_count": 1107,
+      "neg_resolved_before_correction": null,
+      "neg_resolved_after_correction": 0
+    },
+    "order_join": {
+      "join_method": {
+        "direct": 7852,
+        "unique_fallback": 3460,
+        "ambiguous": 462,
+        "none": 101
+      },
+      "join_confidence": {
+        "high": 7852,
+        "medium": 3460,
+        "ambiguous": 462,
+        "none": 101
+      },
+      "order_date_anomaly_count": 232
+    },
+    "team_mismatch": {
+      "count": 1448,
+      "rate_pct": 12.19
+    },
+    "metrics": {
+      "canonical_tickets": 11875,
+      "sla_breach_count": 1051,
+      "sla_breach_rate_pct": 8.851,
+      "sla_credit_exposure_inr": 367850,
+      "total_contact_cost_inr": 3248430,
+      "total_transfer_cost_inr": 264740,
+      "total_cost_inr": 3881020,
+      "transfer_ticket_count": 1040,
+      "transfer_rate_pct": 8.76,
+      "repeat_eligible_tickets": 10463,
+      "csat_mean": 3.3152,
+      "csat_response_rate_pct": 44.37,
+      "auto_closed_count": 1107,
+      "auto_closed_rate_pct": 9.32,
+      "refund_ticket_count": 2105,
+      "refund_total_inr": 5992919,
+      "replacement_count": 1202,
+      "refund_and_replacement_count": 4,
+      "by_channel": {
+        "chat": {
+          "tickets": 5161,
+          "sla_breach_count": 424,
+          "sla_breach_rate_pct": 8.22,
+          "contact_cost_total": 1083810
+        },
+        "email": {
+          "tickets": 3807,
+          "sla_breach_count": 440,
+          "sla_breach_rate_pct": 11.56,
+          "contact_cost_total": 989820
+        },
+        "social": {
+          "tickets": 1203,
+          "sla_breach_count": 91,
+          "sla_breach_rate_pct": 7.56,
+          "contact_cost_total": 288720
+        },
+        "voice": {
+          "tickets": 1704,
+          "sla_breach_count": 96,
+          "sla_breach_rate_pct": 5.63,
+          "contact_cost_total": 886080
+        }
+      }
+    }
+  },
+  "discarded_row_count": 653,
+  "canonical_row_count": 11875
+}
