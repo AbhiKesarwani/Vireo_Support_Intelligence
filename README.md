@@ -292,4 +292,4 @@ Expected: **136 tests, 0 failures** (100% pass rate).
 | Business metrics report | `outputs/phase4_business_report.md` |
 | Correctness audit | `outputs/phase6a_correctness_audit.md` |
 | Final pre-submission audit | `outputs/final_pre_submission_audit.md` |
-| Walkthrough recording (<=3 min) | **PENDING — recording not yet produced (to be recorded by user)** |
+| Walkthrough recording (<=3 min) | **https://drive.google.com/file/d/1PC4FCOPeRSY6Fp3ZnoRzOZZxbZgN2ZOG/view?usp=drive_link** |
