@@ -143,5 +143,4 @@
 - **One-Page Executive Memo:** Available at `memo/one_page_memo.md` and compiled 1-page PDF at `memo/one_page_memo.pdf`.
 - **System Documentation:** Full architecture (`architecture.md`), design decisions (`decision.md`), and quickstart guide (`README.md`).
 - **Walkthrough Video Recording (<= 3 minutes):**
-  - Status: **PENDING — recording not yet produced**
-  - Video URL: `PENDING — recording not yet produced (to be recorded by user)`
+  - Video URL: `https://drive.google.com/file/d/1PC4FCOPeRSY6Fp3ZnoRzOZZxbZgN2ZOG/view?usp=drive_link`
